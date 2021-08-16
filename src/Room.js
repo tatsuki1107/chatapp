@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from "react"
-import firebase from "./config/Firebase"
+import firebase from "../config/Firebase"
 import { AuthContext } from "./AuthService"
 import { nanoid } from "nanoid"
 //import Login from "./Login"
